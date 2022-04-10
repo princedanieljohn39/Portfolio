@@ -21,6 +21,8 @@ body{
     margin: 0;
     padding: 0;
 }
+/* this controls the style of the button "learn more" on the page
+ */
 .button{
     text-decoration: none;
     text-transform: uppercase;
